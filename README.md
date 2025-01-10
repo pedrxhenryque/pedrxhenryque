@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Estudante de Ciência da Computação na Universidade Estadual da Paraíba (UEPB), com formação técnica em Informática pelo IFPE.<br>🌐 Apaixonado por tecnologia, estou me especializando em desenvolvimento web full stack, buscando dominar tanto o frontend quanto o backend.<br>💾 Explorando o universo dos bancos de dados, sempre buscando expandir meus conhecimentos e aprimorar minhas habilidades em tecnologia.
+🎓 Estudante de Ciência da Computação na Universidade Estadual da Paraíba (UEPB), com formação técnica em Informática pelo IFPE.<br>🌐 Atualmente me especializando em desenvolvimento web full stack, buscando dominar tanto o frontend quanto o backend.<br>💾 Explorando o universo dos bancos de dados, sempre buscando expandir meus conhecimentos e aprimorar minhas habilidades em tecnologia.
 
 
 ## 🌐 Socials:

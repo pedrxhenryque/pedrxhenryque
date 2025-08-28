@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">💻 I'm a Computer Science student at the State University of Paraíba (UEPB).  <br>🛠️ Here you can find some of my projects involving frontend and backend development.</p>
+<p align="left">💻 I'm a Computer Science student at UEPB.  <br>🛠️ Here you can find some of my projects involving frontend and backend development.</p>
 
 ###
 
